@@ -1,0 +1,177 @@
+/* 1. Use a more-intuitive box-sizing model */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* 2. Remove default margin */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* 3. Add accessible line-height */
+  line-height: calc(1em + 0.5rem);
+  /* 4. Improve text rendering */
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 5. Improve media defaults */
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* 6. Inherit fonts for form controls */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* 7. Avoid text overflows */
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+/* 8. Improve line wrapping */
+p {
+  text-wrap: pretty;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-wrap: balance;
+}
+
+/*
+  9. Create a root stacking context
+*/
+#root,
+#__next {
+  isolation: isolate;
+}
+
+/**
+ * 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ Custom styles
+ */
+
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: hsl(228, 23%, 0%);
+  color: beige;
+}
+
+li {
+  list-style: none;
+}
+
+.stories-menu {
+  display: flex;
+  max-inline-size: 640px;
+  min-inline-size: 320px;
+  aspect-ratio: 1/0.62;
+  place-items: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.story {
+  width: 33%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 2em;
+}
+
+.img-wrapper {
+  display: flex;
+  width: 62%;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  padding: 4px;
+  position: relative;
+}
+
+.new .img-wrapper {
+  background: linear-gradient(
+    45deg,
+    #feda75,
+    #fa7e1e,
+    #d62975,
+    #962fbf,
+    #4f5bd5
+  );
+}
+
+.viewed .img-wrapper {
+  background: gray;
+}
+
+.live .img-wrapper::after {
+  content: "LIVE";
+  position: absolute;
+  bottom: 1%;
+  left: 33%;
+  margin-block-end: -20px;
+  background-color: red;
+  color: white;
+  font-weight: 700;
+  padding: 2px 6px;
+  border: 4px solid black;
+  font-size: 13px;
+  border-radius: 4px;
+}
+
+img {
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid black;
+}
+
+p {
+  font-size: 2em;
+}
+
+/* w3.org */
+/* .hide {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+} */
