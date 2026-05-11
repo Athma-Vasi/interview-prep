@@ -6,8 +6,8 @@
 
 I am a conscientious, safe, and reliable 4th class power engineer with
 experience working in various industrial settings, including well-sites,
-refineries, and oil batteries. I am excited about the opportunity to contribute
-to UBC's sustainability goals and ensure the safe and efficient operation of its
+refineries, and gas plants. I am excited about the opportunity to contribute to
+UBC's sustainability goals and ensure the safe and efficient operation of its
 boilers, HVAC, as well as other mechanical equipment.
 
 ### What makes me sure I can do the job?
@@ -388,3 +388,315 @@ professional, and I know that I can successfully complete assignments for the
 company, no matter how stressful or difficult they may be. I am confident that
 my ability to stay calm under pressure and my commitment to safety will allow me
 to contribute effectively to UBC's operations, even in high-pressure situations.
+
+## Do you prefer working in a team or alone?
+
+<!-- How to answer
+
+When the interviewers ask this question, they want an insight into your personality, how well you work independently and how well you work with others.
+
+Generally, there's no right or wrong answer to this question, unless the company specifically prefers that you work only in a team or only by yourself.
+
+Luckily, Mr. Simon is here to provide you guidance.
+
+    About Yourself
+
+    To prepare for this question, try to think of your previous experiences. Which type of work suited you best and why?
+
+    For instance, someone who prefers working by themselves may be able to focus better on the problem and a person who prefers a team approach may like having others to help figure out problems.
+
+    If you're a fresh graduate or someone that does not have much work experience, you can think of schoolwork or the times that you worked with others in an organization.
+
+    About The Company
+        What has your research found out about the company and its culture?
+        What have you learned about how the employees work?
+
+    Review the job description as it may give you clues to whether the job focuses on teams, independence or both.
+
+    Try to expand your search into social media posts at Glassdoor or others where employees/former employees may have posted about working conditions you would be working under.
+
+    Remember: knowledge is the key! The more you know about the company, the better prepared you will be to answer questions like this.
+
+    About The Fit
+
+    Based on your research, what did you find is the company's preference?
+        What type of workplace does the company appear to have?
+        What kind of challenges could you help the company/department resolve by working as part of a team?
+        What about the challenges that can be resolved by working independently?
+
+    Emphasize both independent successes as well as group successes (be sure to mention actions you took to help the team).
+
+Pro Tip
+
+Talk about the benefits of each working style and add to your story by telling them in terms of your STARs:
+
+    what was the Situation/Task you needed to address?
+
+    what Actions/Approach did you take?
+
+    what were the Results? What did you do differently that made you successful?
+ -->
+
+I enjoy both working in a team and working independently, as I believe that both
+styles have their own benefits and can be effective in different situations. I
+am adaptable and can thrive in either environment depending on the needs of the
+task at hand. For example, when I was working as a Turnaround Operations
+Technician, there were times when I needed to work closely with my team to
+coordinate tasks and ensure safety during complex operations. In those
+situations, I found that collaborating with my colleagues allowed us to pool our
+knowledge and skills, which led to successful outcomes. On the other hand, there
+were also times when I needed to work independently, such as when I was
+responsible for monitoring equipment or performing routine maintenance tasks. In
+those cases, I appreciated the opportunity to focus and take ownership of my
+work, which allowed me to be efficient and effective. Overall, I believe that my
+ability to work well both in a team and independently makes me a versatile and
+valuable asset to any organization, including UBC. I am confident that I can
+contribute effectively to UBC's operations, whether it requires collaboration
+with colleagues or working independently to ensure the safe and efficient
+operation of its mechanical systems.
+
+## What do you do if you disagree with someone at work?
+
+<!-- How to answer
+
+In the workplace, it is not always possible to agree with everyone since we are all human beings and have our own unique thought processes.
+
+This question helps to find out how you handle situations of conflict and disagreement with other people at work and whether the disagreement is controlled or acrimonious. The interviewers will also note whether your response shows that you will fight, give in, or seek proactive resolution.
+
+    About Yourself
+
+    Think of the times you had to deal with disagreement with your co-workers.
+        What were the different ways you were able to address the situation?
+        Did you try to look at the matter at hand from the other person's perspective or did you always stick with your own viewpoint?
+        What were the key lessons you learned through your experience?
+
+    About The Company
+
+    Research the company and its culture.
+        What do they value?
+        How do they deal with conflict resolution?
+        How do the employees value each other?
+        Do they have any specific standards and policies?
+
+    About The Fit
+
+    Your response should show that you are reasonable and thoughtful, always trying to keep the situation under control, avoid disputes if you feel that dialogue may become aggressive.
+
+    Tell the interviewer that if you disagree with someone, you
+        always focus on facts
+        listen to the points they are presenting
+        never attack his or her ideas and beliefs, because that's not at all helpful or productive
+        recognize the good.
+
+    These statements will help you to highlight your skills like listening, communication and emotional intelligence.
+
+    Give examples from your own experiences of how you used politeness and adaptability.
+
+    Phrases such as “What you are saying may be correct, but I do not think it is applicable in this situation,” “I think ABC is a better solution. What do you think?” Or “Can we try out this option instead?” show how you master potential conflict situations.
+
+Pro Tip
+
+Emphasize that you look at professional differences of opinion as a positive thing.
+
+Remember that even though it is important to put your views forward, it is also important to understand what the other person’s views are.
+
+Explain that your goal is not to win but to clear the air in any disagreement at work for the benefit of the company. -->
+
+If I disagree with someone at work, I always focus on the facts and listen to
+the points they are presenting. Rather than negatively confront their ideas and
+beliefs, I empathize and try to recognize the good in their perspective and find
+common ground. I believe that professional differences of opinion can be a
+positive thing, as they can lead to better outcomes when approached with an open
+mind and a focus on collaboration. My goal is not to win but to clear the air in
+any disagreement at work for the benefit of the company.
+
+## Describe your role at TAQA North.
+
+### Company Overview
+
+TAQA, formally the Abu Dhabi National Energy Company, is a government-owned
+entity of Abu Dhabi. They operate globally across North America, Europe, Africa,
+and Asia with diverse assets spanning upstream production, midstream processing,
+and power generation. Uniquely, TAQA has minimal operations in the Middle
+East—instead focusing on power plants and water desalination facilities there.
+In North America alone, TAQA holds reserves of 308.6 million barrels of oil
+equivalent (BOE) and produces approximately 75,000 BOE per day. Their North
+American footprint includes producing wells, small-scale refining with well-site
+separation and dehydration, low-pressure gas gathering systems, oil batteries,
+and compressor stations.
+
+### Blue Rapids Gas Plant – Location and Operations
+
+I worked at TAQA's Blue Rapids gas plant, located southwest of Lodgepole,
+Alberta. In Dominion Land Survey (DLS) terminology, the plant is positioned west
+of the 5th meridian, range road 9, township 47, section 8, legal subdivision 4,
+northwest quadrant.
+
+The Blue Rapids facility produces and processes natural gas (C1–C4 hydrocarbons)
+from nearby producing wells. Sales gas is delivered to the TransCanada pipeline,
+while heavier hydrocarbons are stored in tanks and trucked to larger processing
+facilities for fractionation.
+
+### Field Operations and Well Characteristics
+
+Most wells in the Blue Rapids area were sweet gas wells (non-sour). All but
+three were operated with plunger lift due to high water cut; the remaining three
+used pumpjacks. Wells periodically loaded with water and required blowdowns to
+tank (depressuring to atmospheric conditions) to restore flow. The facility
+produced approximately 15 decs/day of gas.
+
+My primary operational responsibilities included:
+
+- **Field rounds**: Visual checks of the separator shack and equipment
+- **Data collection**: Recording separator pressure, inlet temperature,
+  differential pressure, and condensate level
+- **Typical readings**: ~200 kPa separator pressure, 40 °C inlet temperature,
+  ~20 kPa differential pressure
+
+### Three-Phase Separation and Field-to-Plant Transport
+
+The wellstream (gas, condensate, and water) entered a three-phase separator
+featuring internal baffles to promote vortex flow, which helped stratify and
+remove free liquids. Gas exited from the top while liquids settled to the
+bottom. The gas was immediately injected with methanol to reduce hydrate
+formation risk during transport to the plant.
+
+The gathering line carried two-phase flow (gas and liquid), which created
+operational challenges. Elevation changes, pipeline risers, and pigging
+operations caused liquid to pool and form "slugs"—large, coherent liquid masses
+that could overwhelm downstream equipment. An **inlet slug catcher** acted as a
+surge vessel to buffer and stabilize this two-phase flow, protecting the
+dehydration and compression systems from slugs. Following the slug catcher, an
+**inlet separator** removed additional entrained condensate to ensure the gas
+stream was as dry as possible before dehydration—a critical requirement for
+downstream units.
+
+### Glycol Dehydration System
+
+The gas stream remained saturated with water vapor entering the **glycol
+dehydration tower**. As wet gas flowed upward, lean triethylene glycol (TEG)
+flowed downward, absorbing water vapor. The outlet was dry gas directed to the
+propane chiller.
+
+TEG has a boiling point of ~180 °C, far higher than water (100 °C), making it an
+ideal desiccant:
+
+- **Regeneration process**: Rich glycol (now laden with absorbed water) was
+  routed to a separator to remove hydrocarbons, then fed to a **fire-tube
+  reboiler** where fired tubes heated the glycol shell to ~180 °C, driving off
+  water as vapor.
+- **Cooling loop**: The hot regenerated glycol needed cooling before reuse
+  because absorption efficiency improves at lower temperatures. Heat exchangers
+  throughout the process transferred heat between hot lean glycol, cool rich
+  glycol, and the process gas streams.
+- **Circulation**: Positive displacement and diaphragm pumps circulated glycol
+  through this continuous heating and cooling cycle.
+
+A **gas-to-gas heat exchanger** enhanced efficiency by allowing hot, dry sales
+gas leaving the plant to pre-warm cool rich glycol, reducing the reboiler duty
+and improving overall thermal balance.
+
+### Refrigeration and Propane Chilling
+
+After dehydration, the gas was further cooled in a **propane chiller**—the
+frosted horizontal vessel visible even in +30 °C weather. By controlling propane
+pressure (and thus its boiling point), the system could achieve precise
+temperature control for optimal liquid separation and glycol absorption
+performance. This stage also cooled the regenerated lean glycol to further
+enhance its water absorption capacity, completing the efficiency cycle.
+
+Post-chilling, condensed liquids were separated and routed to condensate
+storage, while dry process gas continued to compression.
+
+### Compression and Pipeline Integration
+
+Final compression was required to meet TransCanada pipeline specifications. The
+facility operated three **Ariel three-stage reciprocating compressors** driven
+by one Caterpillar V-16 diesel engine and three Waukesha natural gas engines.
+The third stage discharge pressure of approximately 6000 kPa matched the
+pipeline tie-in pressure requirement. This elevated pressure ensured reliable
+flow into the transmission system.
+
+### Condensate Handling and Market
+
+Condensate recovered throughout dehydration and refrigeration stages was stored
+in tanks on-site and transported by truck to a larger TAQA facility equipped
+with a fractional distillation tower for further separation into discrete
+hydrocarbon products (ethane, propane, butane, pentane+).
+
+### Key Learning Outcomes
+
+This role provided hands-on experience with:
+
+- Multiphase flow behavior and slug formation in gathering systems
+- Hydrate prevention and methanol injection requirements
+- Glycol regeneration cycles: heating, cooling, and heat recovery optimization
+- Compressor station operation and pressure management
+- Integration of upstream separation, midstream processing, and pipeline
+  delivery under real production constraints
+
+The work reinforced the importance of systematic field operations, clear
+communication during equipment management, and understanding how each unit
+(separator → slug catcher → glycol contactor → propane chiller → compression)
+contributes to overall system efficiency and safety.
+
+### Detailed Overview
+
+I worked at TAQA's Blue Rapids gas plant, located southwest of Lodgepole,
+Alberta. In Dominion Land Survey (DLS) terminology, the plant is positioned west
+of the 5th meridian, range road 9, township 47, section 8, legal subdivision 4,
+northwest quadrant.
+
+The Blue Rapids facility produces and processes natural gas (C1–C4 hydrocarbons)
+from nearby producing wells. Sales gas is delivered to the TransCanada pipeline,
+while heavier hydrocarbons are stored in tanks and trucked to larger processing
+facilities for fractionation.
+
+Most wells in this field were sweet gas wells. All but three were operated with
+plunger lift due to high water cut, and three wells used pumpjacks. Wells
+periodically loaded with water, and when needed we blew wells to tank
+(depressuring to atmospheric conditions) to restore flow. The plant produced
+approximately 15 decs/day of gas.
+
+The wellstream (gas, condensate, and water) first entered a three-phase
+separator. Internal baffles promoted vortex flow, which helped separate free
+liquids from gas. Gas exited from the top and was injected with methanol to
+reduce hydrate risk during transport to the plant. At the separator shack,
+operator rounds included visual checks and recording separator pressure, static
+and differential pressure, inlet temperature, and condensate level. Typical
+values were about 200 kPa separator pressure, 40 C inlet temperature, and about
+20 kPa differential pressure.
+
+Because the gathering line carried two-phase flow, liquid slugs formed due to
+elevation changes, risers, and pigging effects. An inlet slug catcher acted as a
+buffer to protect downstream equipment and stabilize flow. This was followed by
+inlet separation to remove additional entrained liquids, which is critical
+before dehydration and compression.
+
+Gas dehydration was performed in a glycol contactor using triethylene glycol
+(TEG). Wet gas flowed upward while lean glycol flowed downward, absorbing water
+vapor. Rich glycol from the contactor was then regenerated: first
+flashed/separated to remove hydrocarbons, then heated in a fire-tube reboiler to
+approximately 180 C to boil off water. The regenerated lean glycol was cooled
+through heat exchange stages and recirculated using positive
+displacement/diaphragm pumps. This closed-loop heating and cooling cycle
+maintained dehydration efficiency.
+
+After dehydration, gas was further cooled in a propane refrigeration stage (the
+chiller). By controlling propane pressure, the boiling temperature was adjusted
+to chill process streams and improve liquid recovery and glycol system
+performance. Condensed liquids were separated and routed to condensate handling.
+
+Sales gas was then compressed to pipeline pressure using three Ariel three-stage
+compressors driven by one Caterpillar V-16 and three Waukesha natural gas
+engines. Final discharge was approximately 6000 kPa, consistent with TransCanada
+pipeline tie-in pressure. Condensate was stored in tanks and trucked to a larger
+facility for fractionation.
+
+#### Operational Focus and Learning
+
+My main responsibilities were field readings, equipment condition checks, and
+supporting stable, safe operation across separation, dehydration, and
+compression. This role gave me practical understanding of multiphase flow
+behavior, hydrate prevention, glycol regeneration, and compressor station
+operation under real production constraints.
