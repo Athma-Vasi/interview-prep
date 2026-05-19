@@ -1,78 +1,159 @@
-# What to Expect When Talking to a Landlord
+# First-Time Renting Guide (Vancouver, BC)
+
+Use this as a practical checklist so you can rent safely, avoid scams, and
+protect your money.
+
+## Quick Roadmap
+
+1. Set your max budget.
+2. Prepare your renter documents.
+3. Screen listings and ask key questions.
+4. View the place (virtual or in person).
+5. Review lease terms carefully.
+6. Pay deposit only after lease details are confirmed.
+7. Do move-in inspection with photos and signed report.
+
+## Budget Reality Check
+
+Before applying, decide your hard monthly limit.
+
+- Monthly rent
+- Utilities share
+- Internet (if not included)
+- Transit and commute costs
+- Groceries and basic supplies
+- Emergency buffer (at least 1 month of rent saved)
+
+Rule of thumb: keep rent around 30 to 35 percent of monthly take-home pay when
+possible.
+
+## Renter Documents to Prepare
+
+Keep these ready in one folder (PDF format helps):
+
+- Photo ID
+- Employment letter or offer letter
+- Recent pay stub(s)
+- Work reference contact
+- Personal reference contact
+- Short renter bio (clean, quiet, non-smoker, move-in date)
+
+If you do not have a past landlord reference, be transparent and provide strong
+work plus personal references.
 
 ## Questions They Will Likely Ask You
 
 - What do you do for work?
 - When do you want to move in?
 - How long do you plan to stay?
-- Do you have references (employer, past landlord, or personal)?
-- Do you have pets or smoke?
-- What is your monthly income? (To confirm you can afford rent)
+- Do you have references?
+- Do you smoke, drink heavily, or use drugs?
+- Do you have pets?
+- What is your monthly income?
 
 ## Questions You Should Ask Them
 
-- What is the exact monthly rent and what utilities are included?
-- How is utility splitting calculated and billed?
-- What is the deposit amount, and under what conditions is it returned?
+- What is the exact monthly rent?
+- What utilities are included, and what is extra?
+- Is there any supply/cleaning fee?
 - What is the lease term (month-to-month or fixed)?
-- What is the notice period to vacate?
-- Are there house rules (guests, noise, kitchen hours)?
-- Who do I contact if something breaks?
+- What is the notice period to move out?
+- What are the house rules (guests, quiet time, cleaning, kitchen use)?
+- How many people share bathroom and kitchen?
+- Who handles repairs and how fast are issues fixed?
+- Is there a written move-in inspection report?
 
 ## How to Protect Yourself
 
 1. Always get a written lease.
 
-Never pay anything without a signed agreement. Verbal deals offer you no
-protection.
+Never pay anything based only on text messages or verbal promises.
 
-2. Read the lease before signing. Check:
+2. Read the lease before signing. Confirm:
 
-- Move-in and move-out dates
+- Move-in date and lease start date
 - Rent amount and due date
-- Deposit amount and refund conditions
-- Who is responsible for repairs
-- Any rules that could affect you (no guests overnight, etc.)
+- Deposit amount and return conditions
+- Rules and any penalties
+- Included furniture and utilities
 
-3. Know your rights under BC law.
-
-In British Columbia, the Residential Tenancy Act protects you. Key points:
+3. Know your BC legal basics.
 
 - Security deposit cannot exceed half a month's rent
-- Landlord must give proper notice before entering your room (usually 24 hours)
-- You are entitled to a copy of the signed lease
+- You should receive a copy of the signed agreement
+- Entry notice is generally required (usually 24 hours)
+- Condition inspection reports help protect deposit returns
 
-4. Document the room's condition before moving in.
+4. Document everything.
 
-Take photos or video of every corner, including any existing damage, immediately
-on move-in day. Share them with the landlord by email so there is a timestamp.
-This protects your deposit when you leave.
+Take move-in photos/videos of walls, floors, ceiling, windows, appliances,
+bathroom fixtures, and furniture condition. Email them to yourself and landlord
+for timestamp proof.
 
-5. Pay by e-transfer (not cash) and keep all receipts. This creates a payment
-   record if there is ever a dispute.
+5. Keep payment records.
 
-6. Watch for red flags:
+Use e-transfer (with memo) and keep screenshots/receipts. Avoid cash.
 
-- Landlord refuses to give you a written lease
-- Pressures you to pay deposit before you have seen the lease
-- Asks for more than half a month's rent as deposit
-- Listing photos look too good or are stock images
-- Communication feels evasive or rushed
+6. Communicate in writing.
 
-7. Use a condition inspection report.
+Use text/email for key agreements, repairs, and move-in details so there is a
+record if problems occur.
 
-BC law gives you the right to do a move-in inspection with the landlord. Both
-parties sign it. This protects your deposit.
+## Scam and Red Flag Checklist
 
-## Useful BC Resources
+Walk away if you see these signs:
 
-- BC Residential Tenancy Branch: gov.bc.ca/landlordtenant
-  - Free information and dispute resolution
-- Condition Inspection Report form:
-  - Available free on the BC government website
+- Landlord refuses to provide a written lease
+- Pressure to send deposit immediately without proper details
+- Asking for more than half-month deposit
+- Refuses viewing (or refuses live video walkthrough)
+- Listing photos do not match the actual unit
+- Person showing unit says they are not owner/manager and cannot provide proof
+- Requests unusual payment methods (gift cards, wire transfers)
 
-## Remote Signing Tip
+## Shared-House Fit Checklist
 
-Since you are signing remotely, ask the landlord to share the lease PDF before
-any money is transferred so you can review it carefully first. You have every
-right to take a day or two before signing.
+Before saying yes, confirm:
+
+- Quiet hours and guest rules are workable for you
+- Cleaning schedule is clear and fair
+- Kitchen/storage space is enough
+- Bathroom sharing ratio feels realistic
+- House vibe matches your lifestyle (quiet, respectful, no parties)
+
+## Move-In Day Checklist
+
+- Get keys and confirm how many copies exist
+- Complete and sign condition inspection report
+- Photo/video every room and any damage
+- Test locks, lights, smoke detector, stove, fridge, laundry
+- Confirm Wi-Fi access and utility setup
+- Save landlord/manager emergency contact
+
+## First Week Checklist
+
+- Set rent reminder in calendar (3 days before due date)
+- Confirm preferred method for repair requests
+- Buy basics (bedding, detergent, toiletries, hangers)
+- Learn garbage/recycling pickup rules
+- Keep all lease and payment documents in one folder
+
+## If Problems Happen
+
+1. Send a clear written message with date and issue.
+2. Keep screenshots, photos, and receipts.
+3. If unresolved, check BC Residential Tenancy Branch guidance.
+
+BC Residential Tenancy Branch: gov.bc.ca/landlordtenant
+
+## Remote Signing Safety Tip
+
+If renting from another city, ask for:
+
+- Lease PDF before payment
+- Live video walkthrough
+- Written confirmation of what is included
+- Signed agreement copy right after signing
+
+You can sign electronically and pay by e-transfer once terms are clear and both
+sides agree.
